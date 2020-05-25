@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="61cda62f-e004-462e-bf64-393a0f43e000" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="twitter@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="twitter@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="twitter@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="twitter: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="twitter@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="twitter: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="twitter@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="twitter: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>req1</find>
+      <find>альб</find>
+      <find>post</find>
+      <find>read_pm</find>
+      <find>POST</find>
+      <find>author</find>
+      <find>findlogin</find>
+      <find>insert</find>
+      <find>count</find>
+      <find>birt</find>
+      <find>bi</find>
+      <find>id</find>
+      <find>Locat</find>
+      <find>img</find>
+      <find>&lt;</find>
+      <find>&lt;bo</find>
+      <find>bir</find>
+      <find>disc</find>
+      <find>GET</find>
+      <find>get</find>
+      <find>user_id</find>
+      <find>дата</find>
+      <find>под</find>
+      <find>tweet</find>
+      <find>photo</find>
+      <find>tweet_retweet</find>
+      <find>tweet_ret</find>
+      <find>bold</find>
+      <find>strong</find>
+      <find>print</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>con</replace>
+      <replace>login</replace>
+      <replace>commentDiv</replace>
+      <replace />
+      <replace>tweet</replace>
+      <replace>name</replace>
+      <replace>list-unstyled</replace>
+      <replace>writeMessage</replace>
+      <replace>message</replace>
+      <replace>mGET</replace>
+      <replace>GET</replace>
+      <replace>POST</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Workstation\Desktop\copypatse\ReTwitter\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.1" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="675" />
+    <option name="width" value="700" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1cOtGYo8SxmwmxuqpOyDQ5hpOEP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\ReTwitter" />
+      <recent name="C:\Users\User\Desktop\ReTwitter\assets" />
+      <recent name="C:\Users\User\Desktop\ReTwitter\img" />
+      <recent name="C:\Users\User\Desktop\ReTwitter\prosto tak" />
+      <recent name="C:\Users\User\Desktop\twitter" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MY_WORK\REPOSITORY\ReTwitter\img" />
+      <recent name="C:\Users\User\Desktop\ReTwitter\assets\js\core" />
+      <recent name="C:\Users\User\Desktop\ReTwitter" />
+      <recent name="C:\Users\User\Desktop\ReTwitter\account" />
+      <recent name="C:\Users\User\Desktop\ReTwitter\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.account.php">
+    <configuration name="account.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/account.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="connection.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/includes/connection.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="db.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/db.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="intropage.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/intropage.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.account.php" />
+        <item itemvalue="PHP Script.intropage.php" />
+        <item itemvalue="PHP Script.connection.php" />
+        <item itemvalue="PHP Script.db.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61cda62f-e004-462e-bf64-393a0f43e000" name="Default Changelist" comment="" />
+      <created>1556727465827</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556727465827</updated>
+      <workItem from="1556727473549" duration="9605000" />
+      <workItem from="1556893327260" duration="4498000" />
+      <workItem from="1556900761082" duration="1362000" />
+      <workItem from="1556904308060" duration="297000" />
+      <workItem from="1557141778677" duration="316000" />
+      <workItem from="1557143861980" duration="10457000" />
+      <workItem from="1557307582502" duration="19200000" />
+      <workItem from="1557356562292" duration="3772000" />
+      <workItem from="1557404953955" duration="20225000" />
+      <workItem from="1557438334330" duration="97544000" />
+      <workItem from="1557750299199" duration="1667000" />
+      <workItem from="1557920604142" duration="18811000" />
+      <workItem from="1558001927783" duration="9057000" />
+      <workItem from="1558081905139" duration="2776000" />
+      <workItem from="1558340218385" duration="1705000" />
+      <workItem from="1558351904745" duration="254000" />
+      <workItem from="1590411377196" duration="164000" />
+      <workItem from="1590411608798" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="165" key="SettingsEditor" timestamp="1590411637700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1590411637700" />
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1590411609082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590411609082" />
+  </component>
+</project>
